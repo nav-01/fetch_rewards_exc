@@ -5,7 +5,7 @@ New Structured Relational Data Model
 SQL queries for the following bullet points are available in the IPYNB
 - What are the top 5 brands by receipts scanned for most recent month?
 - How does the ranking of the top 5 brands by receipts scanned for the recent month compare to the ranking for the previous month?
-When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
-When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
-Which brand has the most spend among users who were created within the past 6 months?
-Which brand has the most transactions among users who were created within the past 6 months?
+- When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+- When considering total number of items purchased from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
+- Which brand has the most spend among users who were created within the past 6 months?
+- Which brand has the most transactions among users who were created within the past 6 months?
