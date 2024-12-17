@@ -29,3 +29,6 @@ Please note that several data issues were identified during the data exploration
 Additionally, any insights or further information regarding the downstream usage and the specific questions this data is meant to address would be valuable for optimizing the data assets. For example, redundant data from the 'rewardsReceiptItemList' JSON and the 'Receipts' dataset could be removed during the data processing stage.
 
 And finally, there may not be any performance concerns at the moment but an increase in data volume can affect both storage and query performance. To address this, we can leverage cloud data warehouses like Snowflake, AWS Redshift, BigQuery, etc., which offer easy scalability and data access without the need for managing physical infrastructure. Additionally, partitioning large datasets by specific date ranges can enhance query performance. It may also be beneficial to remove unnecessary columns or keys from the 'rewardsReceiptItemList' JSON. Finally, using data observability tools like Monte Carlo, DataDog, etc., can help identify bottlenecks, performance issues, and data quality concerns.
+
+## Note:
+Python Version = 3.11.5
