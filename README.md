@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/aa6575bc-266c-41de-9e9f-941d182775a8)
 
 ## SQL queries
-SQL queries for the following bullet points are available [here]([https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb?short_path=82009f9#L1838](https://github.com/nav-01/fetch_rewards_exc/blob/aa5de45b0a267508f6ec4249c393fe3d8be026f7/fetch_rewards_nb.ipynb#L1159C1-L1160C1)
+SQL queries for the following bullet points are available [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb?short_path=82009f9#L1838](https://github.com/nav-01/fetch_rewards_exc/blob/aa5de45b0a267508f6ec4249c393fe3d8be026f7/fetch_rewards_nb.ipynb#L1159C1-L1160C1)
 - What are the top 5 brands by receipts scanned for most recent month?
 - How does the ranking of the top 5 brands by receipts scanned for the recent month compare to the ranking for the previous month?
 - When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
