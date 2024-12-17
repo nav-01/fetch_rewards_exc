@@ -18,6 +18,8 @@ Data issues were identified during the exploration phase, primarily falling into
 - Consistency
 - Uniqueness
 
+Additional details can be found [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb?short_path=82009f9#L1838)
+
 ## Communicate with Stakeholders
 After analyzing the data, here are some observations and questions:
 - Out of 1119 receipts, only 679 have corresponding purchases. Should we retain records of receipts with no purchases, or should they be discarded?
