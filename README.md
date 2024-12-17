@@ -12,7 +12,7 @@ SQL queries for the following bullet points are available in the IPYNB
 - Which brand has the most transactions among users who were created within the past 6 months?
 
 ## Data Quality Issues
-Data issues were identified during the data exploration phase. These issues are related to the following categories:
+Data issues were identified during the exploration phase, primarily falling into the following categories:
 - Validity
 - Completeness
 - Consistency
