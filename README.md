@@ -18,7 +18,7 @@ Data issues were identified during the exploration phase, primarily falling into
 - Consistency
 - Uniqueness
 
-Additional details can be found [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb?short_path=82009f9#L1838)
+Additional details can be found [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb) under the 'Data Quality Issues' section.
 
 ## Communicate with Stakeholders
 After analyzing the data, here are some observations and questions:
@@ -26,7 +26,7 @@ After analyzing the data, here are some observations and questions:
 - There are 91 receipts that were scanned but not accepted, yet the users still received points. What could be the reason for awarding points to these users?
 - Four receipts were scanned and accepted, but no points were awarded, and the 'bonusPointsEarnedReason' is NULL for these cases. Is there a glitch in the evaluation or point-awarding process? It would be helpful to understand the actual reason for these instances.
 
-Please note that several data issues were identified during the data exploration phase, primarily related to validity, completeness, consistency, and uniqueness. Additional details can be found [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb?short_path=82009f9#L1838).
+Please note that several data issues were identified during the data exploration phase, primarily related to validity, completeness, consistency, and uniqueness. Additional details can be found [here](https://github.com/nav-01/fetch_rewards_exc/blob/main/fetch_rewards_nb.ipynb) under the 'Data Quality Issues' section.
 
 Additionally, any insights or further information regarding the downstream usage and the specific questions this data is meant to address would be valuable for optimizing the data assets. For example, redundant data from the 'rewardsReceiptItemList' JSON and the 'Receipts' dataset could be removed during the data processing stage.
 
